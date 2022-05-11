@@ -1,8 +1,1 @@
-[
-  {
-    "email": "hernanvelasco@gmail.com",
-    "firstname": "hernan",
-    "lastname": "velasco",
-    "password": "$2a$05$tP4GtC8Hy9/W0KsKIXwfmu4.roPV16ZFjGseMhqGGUprfXbKuWaTe"
-  }
-]
+[]
